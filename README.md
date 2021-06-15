@@ -7,6 +7,7 @@ Nacionalna geografija / zemljopis web aplikacija
 - Backend projekta je napisan sa NODEJS i EXPRESS i SOCKETIO frameworkovima
 - Početna stranica radi na princip HTTP requstova, dok game stranica radi u real time-u sa soketima
 - Android verzija je trenutno u razvoju i biće opcija crossplaya izmedju svih uredjaja
+- Baza podataka je MySQL
 [DEMO](https://youtu.be/CoAYXbh9bSI] - starija verzija projekta gde se demonstrira mogućnost realizacije projekta
 
 ## LINK
