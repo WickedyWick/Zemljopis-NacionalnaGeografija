@@ -36,6 +36,7 @@ Country, city , rive type of appliaction in my native language with lots of neat
 ## STATE 
  
   DESKTOP BETA
+  
   ANDROID IN DEVELOPMENT
 
 ### FUNCTIONALITIES
