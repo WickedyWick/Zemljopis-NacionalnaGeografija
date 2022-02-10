@@ -4,6 +4,12 @@ Nacionalna geografija / zemljopis web application
 
 Country, city , rive type of appliaction in my native language with lots of neat functionalities
 
+Repo -> https://github.com/WickedyWick/zemljopis
+
+## NOTE
+
+Project is currently being rewritten and uprgraded using TS and new knowledge aquired -> https://github.com/WickedyWick/zemljopis-ts-be/tree/dev
+
 ## DESCRIPTION
 
 - This entire project has been done by myself alone from nothing
