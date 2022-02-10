@@ -2,7 +2,7 @@
 
 Nacionalna geografija / zemljopis web aplikacija
 
-Repo -> https://github.com/WickedyWick/zemljopis
+Source code -> https://github.com/WickedyWick/zemljopis
 
 Projekat se trenutno unapredjuje i pravi koristice Typescript i novo znanje
 
