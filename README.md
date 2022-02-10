@@ -2,6 +2,8 @@
 
 Nacionalna geografija / zemljopis web aplikacija
 
+Repo -> https://github.com/WickedyWick/zemljopis
+
 ## OPIS
 
 - Backend projekta je napisan sa NODEJS i EXPRESS i SOCKETIO frameworkovima
