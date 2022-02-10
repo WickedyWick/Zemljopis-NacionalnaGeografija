@@ -4,6 +4,8 @@ Nacionalna geografija / zemljopis web aplikacija
 
 Repo -> https://github.com/WickedyWick/zemljopis
 
+Projekat se trenutno unapredjuje i pravi koristice Typescript i novo znanje
+
 ## OPIS
 
 - Backend projekta je napisan sa NODEJS i EXPRESS i SOCKETIO frameworkovima
